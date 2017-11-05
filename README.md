@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# YoutubeReact
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -15,4 +15,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-You need to create inside the src directory a file called api_key.js with your ID of the Youtube API.
+You need to create inside the src directory a file called api_key.js with your ID of the Youtube API
